@@ -1,5 +1,4 @@
 # Rakuten Web Service SDK for PHP
-# ===============================
 
 This package is another version for https://github.com/rakuten-ws/rws-php-sdk/ with support of PHP namespace. Works well with Yii2 and Laravel.
 
@@ -7,7 +6,7 @@ This package is another version for https://github.com/rakuten-ws/rws-php-sdk/ w
 
     {
         "require": {
-            "rakuten/rakuten-api": "1.*"
+            "bsushil/rakuten-api": "dev-master"
         }
     }
 
