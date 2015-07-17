@@ -2,7 +2,7 @@
     "name": "bsushil/rakuten-api",
     "description": "Rakuten PHP API SDK",
     "version": "1.0.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "MIT",
     "keywords": ["rakuten","products","search"],
     "homepage": "https://github.com/bSushil/rakuten",
