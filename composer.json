@@ -18,7 +18,11 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Rakuten\\": "lib/"
+            "Rakuten\\": "lib/",
+            "Rakuten\\Clients\\": "lib/HttpClient/",
+            "Rakuten\\Api\\": "lib/Api/",
+            "Rakuten\\Api\\Definition\\": "lib/Api/Definition/",
+            "Rakuten\\Response\\": "lib/ApiResponse/",
         }
     }
 }
